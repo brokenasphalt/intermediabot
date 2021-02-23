@@ -1,9 +1,9 @@
 # File Name     - Translation
 # Description   - Text translation file
-# Owner         - M4Mallu
-# Repo          - https://github.com/m4mallu
-# Tg Id         - @space4renjith
-# Channel       - @MovieKeralam
+# Owner         - BROKEN ASPHALT
+# Repo          - https://github.com/BROKENASPHALT
+# Tg Id         - BROKEN
+# Channel       - @STREAM_ZONE
 # ---------------------------------------------------------------------------------------- #
 
 class Translation(object):
@@ -22,7 +22,7 @@ class Translation(object):
                  "media to the bot.</code>\n\n3️⃣ <code>Reply to the media with the command</code> <b>/download</b> <code>and follow the " \
                  "instructions.</code>\n\n4️⃣ <code>Bot will output your formatted media with custom thumbnail, screenshots and a " \
                  "sample video.</code>\n\n<code>Supported Extensions: .mkv, .mp4, .avi and " \
-                 ".webm</code>\n\n<b>Credits- <a href='https://t.me/kiddilan'>@admin</a></b> "
+                 ".webm</code>\n\n<b>Credits- <a href='https://t.me/stream_zone'>@admin</a></b> "
     SETTINGS_TEXT = "<b>These are my available options:</b>"
     THUMB_CAPTION = "<code>This image is your current thumbnail, Tap</code><b> DEL THUMB </b><code>if you wish to " \
                     "clear it !</code> "
@@ -41,7 +41,7 @@ class Translation(object):
                   "check the supported extensions in welcome message !</code> "
     EXTENSIONS = ['.mkv', '.mp4', '.avi', '.webm']
     NO_SPAM_MSG = "⚠️ <b>Don't Spam Here</b>\n<code>Read the welcome message for better use of this bot !</code>"
-    CAPTION_TEXT = "@moviekeralam"
+    CAPTION_TEXT = "<b>@STREAM_ZONE<b>"
     TRIM_WAIT = "<b>Attention</b>⚠️\n<code>Please Wait 30Sec for a sample video. Be patient</code> 🤪"
     THANKS_MESSAGE = "<b>Thanks for using.Have a nice day</b>💕"
     MAKE_A_COPY_TEXT = "📚 <b> Can i make a copy of the same ?</b>"
@@ -51,10 +51,10 @@ class Translation(object):
                   "problem persists, May be your server IP got blocked by the YouTube </code>😔 "
     PROCESS_START = "Processing Youtube Url 🔎 🔎 🔎"
 
-    CUSTOM_CAPTION_DOC = "━━━━━━━━━ ✧ ━━━━━━━━\n&ensp;💢<a href='https://t.me/MoviekeralamLinks'>@MoviekeralamLinks</a" \
+    CUSTOM_CAPTION_DOC = "━━━━━━━━━ ✧ ━━━━━━━━\n&ensp;💢<a href='https://t.me/STREAM_ZONE'>@STREAM_ZONE</a" \
                          ">💢\n━━━━━━━━━ ✧ ━━━━━━━━\n\n🎗<b>ʝσιи🎗ѕнαяє🎗ѕυρρσят</b>🎗 "
     CUSTOM_CAPTION_VIDEO = "🏷:\n\n&ensp;&ensp;&ensp; 🎞 <b>STREAMABLE FILE</b> 🎞\n\n&ensp;&ensp;&ensp;💢<a " \
-                           "href='https://t.me/MoviekeralamLinks'>@MoviekeralamLinks</a>💢 "
+                           "href='https://t.me/STREAM_ZONE'>@STREAM_ZONE</a>💢 "
     BOT_PM_TEXT = "<b>PM from:</b>\nName:&ensp;<b>{}</b>\nUser Name:&ensp;@{}\nUser Id:&ensp;{}\nBot Name:&ensp;<b>{" \
                   "}</b>\nBot Username:&ensp;@{} "
     BOT_RN_TEXT = "<b>Rename from:</b>\nName:&ensp;<b>{}</b>\nUser Name:&ensp;@{}\nUser Id:&ensp;{}\nBot " \
